@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>blue2</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur labore odio perferendis quas voluptate rem ipsa a cumque nesciunt, sit repellendus aperiam iste numquam, ipsum distinctio reprehenderit minus laudantium expedita.</p>
 </body>
 </html>
